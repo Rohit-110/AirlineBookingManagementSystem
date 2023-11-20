@@ -58,7 +58,7 @@ Made By:-
  <div id="section5">
        <h4 >Contribution</h4>
        <hr>
-       If you'd like to contribute to the development of the 9-Box Puzzle Game, please follow these steps:
+       If you'd like to contribute to the development of the Airline Booking Management System, please follow these steps:
        <br>
       <ol type="i">
             <li>Fork the repository.</li>
