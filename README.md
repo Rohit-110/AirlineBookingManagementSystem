@@ -4,9 +4,9 @@
 
 
 Made By:-
-      <ol type="i">
-        <li>Aditi Gupta - IIT2022011</li>
+      <ol type="i">      
         <li>Rohit Pandey - IIT2022019</li>
+        <li>Aditi Gupta - IIT2022011</li>
         <li>Sushmitha Pothuraju - IIT2022091</li>
       </ol>
 
